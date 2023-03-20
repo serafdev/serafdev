@@ -1,18 +1,21 @@
-### 😶‍🌫️ Peace be upon you, السلام عليكم
+# 😶‍🌫️ Peace be upon you, السلام عليكم
 
 I only want to code, drink tea, and chill at the 🕌.
 
-#### Studies
+## Studies
 - Computer Science Major @UdeM
-- Other random things like Finance, International Trade, some Physics
+- Other random things like Finance @HEC, International Trade @Cegep, some Physics here and there
 
-#### Work
-Currently working as a Software Developer in a Contract with @Bell and doing DevOps work for the community @Moonode.
+## Work
+Currently working as a Software Contractor and doing DevOps work for the community @MoonodeOrg
 
-My expertise looks like this in a tl;dr:
-- Go
-- Kubernetes
-- Terraform
+- Software Contractor @SerafInc. 19.05-Present
+  - Programmer @Desjardins 19.07-19.11
+  - Programmer @Bell 19.11-21.05, 22.09-Present
+- Cloud Engineer @MariaDB. 21.04-22.09
+- Programmer @Cofomo. 19.01-19.06
+- Software Engineer @Faimdata. 16.12-18.12
+
 
 Thanks
 
