@@ -9,6 +9,15 @@ I only want to code, drink tea, and chill at the 🕌.
 ## Work
 Started Software Engineering professionally on December 2016 and am currently working as a Software Contractor (start 2019) and doing DevOps work for the community @MoonodeOrg and @ccil-kbw
 
+Toolset:
+- Kubernetes
+- Docker
+- Go
+- Terraform
+- Python
+- Scala
+- Cloud (AWS, GCP, Linode, Azure, etc...)
+
 Thanks
 
 <!--
