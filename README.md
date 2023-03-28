@@ -7,15 +7,7 @@ I only want to code, drink tea, and chill at the 🕌.
 - Other random things like Finance @HEC, International Trade @Cegep, some Physics here and there
 
 ## Work
-Currently working as a Software Contractor and doing DevOps work for the community @MoonodeOrg
-
-- Software Contractor @SerafInc. 19.05-Present
-  - Programmer @Desjardins 19.07-19.11
-  - Programmer @Bell 19.11-21.05, 22.09-Present
-- Cloud Engineer @MariaDB. 21.04-22.09
-- Programmer @Cofomo. 19.01-19.06
-- Software Engineer @Faimdata. 16.12-18.12
-
+Started Software Engineering professionally on December 2016 and am currently working as a Software Contractor (start 2019) and doing DevOps work for the community @MoonodeOrg and @ccil-kbw
 
 Thanks
 
