@@ -1,13 +1,13 @@
 # Peace be upon you, السلام عليكم
 
-I only want to code, drink tea, and chill at the 🕌.
+I only want to code, drink tea, and chill at the Mosque.
 
 ## Studies
 - Computer Science Major @UdeM
 - Other random things like Finance @HEC, International Trade @Cegep, some Physics here and there
 
 ## Work
-Started Software Engineering professionally on December 2016 and am currently working as a Software Contractor (start 2019) and doing DevOps work for the community @MoonodeOrg and @ccil-kbw
+Started Software Engineering professionally on December 2016 and am currently working as a Software Contractor (start 2019) and doing DevOps work for the community @ccil-kbw
 
 Toolset:
 - Kubernetes
