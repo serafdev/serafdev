@@ -1,4 +1,7 @@
-۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+الحجرات 49:13
 
-When you see them, their appearance impresses you. And when they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺ planks of wood leaned ˹against a wall˺. They think every cry is against them. They are the enemy, so beware of them. May Allah condemn them! How can they be deluded ˹from the truth˺?
+يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ 
 
+English - Sahih International
+
+O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allāh is the most righteous[1] of you. Indeed, Allāh is Knowing and Aware.
